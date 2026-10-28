@@ -3,17 +3,17 @@
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&lines=Ham+veriden+i%C3%A7g%C3%B6r%C3%BCye+giden+boru+hatlar%C4%B1n%C4%B1+kuruyorum;Full-Stack+ge%C3%A7mi%C5%9F+%E2%86%92+Data+%26+AI+gelecek;%C5%9Eu+an%3A+foto%C4%9Fraftan+kalori+tahmin+eden+model+e%C4%9Fitiyorum;Python+%C2%B7+SQL+%C2%B7+Node.js+%C2%B7+PyTorch+%C2%B7+RAG" alt="Ham veriden içgörüye giden boru hatlarını kuruyorum" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=FF2A6D&center=true&vCenter=true&width=720&lines=Ham+veriden+i%C3%A7g%C3%B6r%C3%BCye+giden+boru+hatlar%C4%B1n%C4%B1+kuruyorum;Full-Stack+ge%C3%A7mi%C5%9F+%E2%86%92+Data+%26+AI+gelecek;%C5%9Eu+an%3A+foto%C4%9Fraftan+kalori+tahmin+eden+model+e%C4%9Fitiyorum;Python+%C2%B7+SQL+%C2%B7+Node.js+%C2%B7+PyTorch+%C2%B7+RAG" alt="Ham veriden içgörüye giden boru hatlarını kuruyorum" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mertaydingunes/"><img src="https://img.shields.io/badge/LinkedIn-mertaydingunes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:aydingunesmert@gmail.com"><img src="https://img.shields.io/badge/E--posta-aydingunesmert-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta" /></a>
-  <img src="https://img.shields.io/badge/Hatay%20%C2%B7%20Karab%C3%BCk-T%C3%BCrkiye-E30A17?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Hatay · Karabük, Türkiye" />
-  <img src="https://komarev.com/ghpvc/?username=traldo44&style=for-the-badge&color=7c3aed&label=PROFIL+G%C3%96R%C3%9CNT%C3%9CLENME" alt="Profil görüntülenme" />
+  <a href="https://www.linkedin.com/in/mertaydingunes/"><img src="https://img.shields.io/badge/LinkedIn-mertaydingunes-05D9E8?style=for-the-badge&logo=linkedin&logoColor=05D9E8&labelColor=0B0220" alt="LinkedIn" /></a>
+  <a href="mailto:aydingunesmert@gmail.com"><img src="https://img.shields.io/badge/E--posta-aydingunesmert-FF2A6D?style=for-the-badge&logo=gmail&logoColor=FF2A6D&labelColor=0B0220" alt="E-posta" /></a>
+  <img src="https://img.shields.io/badge/Hatay%20%C2%B7%20Karab%C3%BCk-T%C3%BCrkiye-F9F002?style=for-the-badge&logo=googlemaps&logoColor=F9F002&labelColor=0B0220" alt="Hatay · Karabük, Türkiye" />
+  <img src="https://komarev.com/ghpvc/?username=traldo44&style=for-the-badge&color=b026ff&labelColor=0b0220&label=PROFIL+G%C3%96R%C3%9CNT%C3%9CLENME" alt="Profil görüntülenme" />
 </p>
 
-## 👋 Merhaba, ben Mert
+## ⚡ 01 // MERHABA, BEN MERT
 
 Karabük Üniversitesi'nde **Bilgisayar Mühendisliği 4. sınıf** öğrencisiyim ve bölüm birincisiyim (GNO **3.86 / 4.00**). Web geliştirmeyle başladım; bugün TÜBİTAK destekli bir dış ticaret otomasyonu projesinde **Full-Stack Developer** olarak çalışıyorum.
 
@@ -46,17 +46,17 @@ I'm heading toward **Data Engineering and AI**: building systems that collect, c
 
 </details>
 
-## 🧰 Teknolojiler
+## 🛠️ 02 // TEKNOLOJİLER
 
 <p align="center"><b>Veri & Yapay Zekâ</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,postgres,sqlite&theme=dark" alt="Python, PyTorch, scikit-learn, PostgreSQL, SQLite" /><br /><br />
-  <img src="https://img.shields.io/badge/Jupyter-0b1124?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/pandas-0b1124?style=for-the-badge&logo=pandas&logoColor=E70488" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-0b1124?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Hugging_Face-0b1124?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Streamlit-0b1124?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Kaggle-0b1124?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle" />
+  <img src="https://img.shields.io/badge/Jupyter-0b0220?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/pandas-0b0220?style=for-the-badge&logo=pandas&logoColor=E70488" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-0b0220?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Hugging_Face-0b0220?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Streamlit-0b0220?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Kaggle-0b0220?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle" />
 </p>
 
 <p align="center"><b>Web & Uygulama</b></p>
@@ -69,7 +69,7 @@ I'm heading toward **Data Engineering and AI**: building systems that collect, c
   <img src="https://skillicons.dev/icons?i=c,cs,dotnet,java,git,github,githubactions,docker,bash&theme=dark" alt="C, C#, .NET, Java, Git, GitHub, GitHub Actions, Docker, Bash" />
 </p>
 
-## 🚀 Öne Çıkan Projeler
+## 👾 03 // ÖNE ÇIKAN PROJELER
 
 <p align="center">
   <a href="https://github.com/traldo44/How-to-Fish-Toolkit"><img src="assets/card-howtofish.svg" width="49%" alt="How to Fish Toolkit" /></a>
@@ -94,7 +94,7 @@ I'm heading toward **Data Engineering and AI**: building systems that collect, c
 
 </details>
 
-## 💼 Deneyim
+## 💾 04 // DENEYİM
 
 - **Full-Stack Developer** · Ramer Consulting, İstanbul (uzaktan) · `Nisan 2025 – devam`\
   TÜBİTAK destekli Dış Ticaret Otomasyonu projesi: dış ticaret süreçlerini hızlandıran otomasyon yazılımı (Node.js).
@@ -102,7 +102,7 @@ I'm heading toward **Data Engineering and AI**: building systems that collect, c
 - **Web Developer** · Anadolu Şirketler Grubu, BT Ekibi, Karabük · `Temmuz – Ekim 2024`\
   HTML, CSS ve JavaScript ile mobil uyumlu arayüzler ve performans iyileştirmeleri.
 
-## 🤝 Topluluk
+## 🛰️ 05 // TOPLULUK
 
 - **Sayman** · Huawei Student Developers (HSD) Karabük · `Nisan 2025 – devam`\
   Teknik etkinliklerin bütçe yönetimi, seminer ve atölye organizasyonu; HSD Türkiye platformunun geliştirilmesine katkı.
@@ -110,13 +110,13 @@ I'm heading toward **Data Engineering and AI**: building systems that collect, c
   Manyetik levitasyon ve süspansiyon sistemleri, kararlılık için kontrol algoritmaları.
 - **Core Team Üyesi** · Google Developer Student Clubs (GDSC) Karabük · `Eylül 2024 – Aralık 2025`
 
-## 🗺️ Yol Haritam
+## 🎯 06 // YOL HARİTAM
 
 <p align="center">
   <img src="assets/roadmap.svg" width="100%" alt="Yol haritası: Python, SQL, Data Engineering, Big Data & Cloud, ML, Deep Learning, MLOps, Portföy → Data Engineer × AI Engineer" />
 </p>
 
-## 📈 GitHub'da
+## 🐍 07 // AKTİVİTE
 
 <p align="center">
   <picture>
@@ -126,4 +126,4 @@ I'm heading toward **Data Engineering and AI**: building systems that collect, c
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:a78bfa&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2a6d,50:b026ff,100:05d9e8&height=110&section=footer" width="100%" alt="" />
