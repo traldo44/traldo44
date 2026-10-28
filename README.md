@@ -15,15 +15,15 @@
 
 ## 👋 Merhaba, ben Mert
 
-Karabük Üniversitesi'nde **Bilgisayar Mühendisliği** okuyorum ve bölüm birincisiyim (GNO **3.89 / 4.00**). Web geliştirmeyle başladım; bugün TÜBİTAK destekli bir dış ticaret otomasyonu projesinde **Full-Stack Developer** olarak çalışıyorum.
+Karabük Üniversitesi'nde **Bilgisayar Mühendisliği 4. sınıf** öğrencisiyim ve bölüm birincisiyim (GNO **3.86 / 4.00**). Web geliştirmeyle başladım; bugün TÜBİTAK destekli bir dış ticaret otomasyonu projesinde **Full-Stack Developer** olarak çalışıyorum.
 
 Asıl tutkum **veri**: veriyi toplayan, temizleyen ve anlamlı hale getiren sistemler kurmak, sonra bu verinin üzerine **yapay zekâ modelleri** inşa etmek. Öğrendiğim her şeyi bir projeye dökmeyi seviyorum: fotoğraftan kalori tahmin eden bir model, verini hiç dışarı çıkarmayan bir RAG uygulaması ya da staj ilanlarını benim yerime tarayan bir bot.
 
 ```python
 class Mert:
     unvan    = "Full-Stack Developer → Data Engineer × AI Engineer"
-    okul     = "Karabük Üniversitesi · Bilgisayar Mühendisliği"
-    derece   = "Bölüm 1.si · GNO 3.89 / 4.00"
+    okul     = "Karabük Üniversitesi · Bilgisayar Mühendisliği · 4. sınıf"
+    derece   = "Bölüm 1.si · GNO 3.86 / 4.00"
     is_      = "Ramer Consulting · Dış Ticaret Otomasyonu (Node.js)"
     topluluk = ["HSD Karabük · Sayman",
                 "Partech Hyperloop · Levitasyon Ekibi",
@@ -40,7 +40,7 @@ class Mert:
 <summary>🇬🇧 <b>English</b></summary>
 <br />
 
-I'm **Mert**, a Computer Engineering student at Karabük University, ranked **1st in my department** (GPA 3.89/4.00). I started with web development and currently work as a **Full-Stack Developer** on a TÜBİTAK-backed foreign trade automation project.
+I'm **Mert**, a 4th-year Computer Engineering student at Karabük University, ranked **1st in my department** (GPA 3.86/4.00). I started with web development and currently work as a **Full-Stack Developer** on a TÜBİTAK-backed foreign trade automation project.
 
 I'm heading toward **Data Engineering and AI**: building systems that collect, clean and make sense of data, then putting models on top of it. Right now I'm training a model that estimates calories from a single food photo. I'm open to Data and AI internship and junior opportunities.
 
@@ -72,11 +72,13 @@ I'm heading toward **Data Engineering and AI**: building systems that collect, c
 ## 🚀 Öne Çıkan Projeler
 
 <p align="center">
-  <a href="https://github.com/traldo44/kalori-tahmini"><img src="assets/card-kalori.svg" width="49%" alt="Kalori Tahmini" /></a>
+  <a href="https://github.com/traldo44/How-to-Fish-Toolkit"><img src="assets/card-howtofish.svg" width="49%" alt="How to Fish Toolkit" /></a>
   <a href="https://github.com/traldo44/local-rag-project-with-streamlit"><img src="assets/card-rag.svg" width="49%" alt="Yerel RAG Özetleyici" /></a>
-  <a href="https://hsdturkiye.com"><img src="assets/card-hsd.svg" width="49%" alt="HSD Türkiye Platformu" /></a>
-  <a href="https://github.com/traldo44/URL-to-MP4-MP3-converter"><img src="assets/card-converter.svg" width="49%" alt="URL → MP4 / MP3" /></a>
+  <a href="https://github.com/sicloid/hubify"><img src="assets/card-hubify.svg" width="49%" alt="Hubify" /></a>
+  <a href="https://github.com/traldo44/kalori-tahmini"><img src="assets/card-kalori.svg" width="49%" alt="Kalori Tahmini" /></a>
 </p>
+
+<p align="center"><sub>Hubify canlı demo: <a href="https://hubify-olive.vercel.app">hubify-olive.vercel.app</a></sub></p>
 
 <details>
 <summary><b>Diğer projeler</b></summary>
@@ -85,7 +87,8 @@ I'm heading toward **Data Engineering and AI**: building systems that collect, c
 | Proje | Ne yapıyor? | Teknoloji |
 | --- | --- | --- |
 | **Staj Radar** 🔒 | Yaklaşık 1000 kariyer sayfasını düzenli tarayıp yeni staj ilanlarını Telegram'dan haber veren kişisel bot | Python, Telegram Bot API |
-| [**How-to-Fish-Toolkit**](https://github.com/traldo44/How-to-Fish-Toolkit) | How to Fish için çevrimdışı tek oyunculu trainer: oyun DLL'ini yamalar, oyun kapanınca orijinalini geri yükler | C#, .NET 8 |
+| [**HSD Türkiye Platformu**](https://hsdturkiye.com) | Öğrenci geliştirici topluluğunun sitesi ve yönetim sistemi; rozet sistemi ve Mattermost tabanlı sohbet entegrasyonu (ekip projesi) | Next.js, TypeScript, Prisma |
+| [**URL → MP4 / MP3**](https://github.com/traldo44/URL-to-MP4-MP3-converter) | Video ve ses bağlantılarını MP4 ya da MP3'e çeviren, tek dosya .exe olarak dağıtılan masaüstü uygulaması | Python, Tkinter, yt-dlp |
 | [**Laravel E-Ticaret**](https://github.com/traldo44/Laravel1j-e-commerce) | Laravel ile geliştirilmiş e-ticaret sitesi | PHP, Laravel, Tailwind |
 | [**Görsel Programlama Projesi**](https://github.com/traldo44/visual-programming-project) | Çok formlu Windows Forms masaüstü uygulaması | C#, .NET |
 
