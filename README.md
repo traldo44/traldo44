@@ -15,7 +15,7 @@
 
 ## ⚡ 01 // MERHABA, BEN MERT
 
-Karabük Üniversitesi'nde **Bilgisayar Mühendisliği 4. sınıf** öğrencisiyim ve bölüm birincisiyim (GNO **3.86 / 4.00**). Web geliştirmeyle başladım; bugün TÜBİTAK destekli bir dış ticaret otomasyonu projesinde **Full-Stack Developer** olarak çalışıyorum.
+Karabük Üniversitesi'nde **Bilgisayar Mühendisliği 4. sınıf** öğrencisiyim ve bölüm birincisiyim (GNO **3.86 / 4.00**). Web geliştirmeyle başladım ve **Full-Stack Developer** olarak uçtan uca uygulamalar geliştiriyorum.
 
 Asıl tutkum **veri**: veriyi toplayan, temizleyen ve anlamlı hale getiren sistemler kurmak, sonra bu verinin üzerine **yapay zekâ modelleri** inşa etmek. Öğrendiğim her şeyi bir projeye dökmeyi seviyorum: fotoğraftan kalori tahmin eden bir model, verini hiç dışarı çıkarmayan bir RAG uygulaması ya da staj ilanlarını benim yerime tarayan bir bot.
 
@@ -24,10 +24,6 @@ class Mert:
     unvan    = "Full-Stack Developer → Data Engineer × AI Engineer"
     okul     = "Karabük Üniversitesi · Bilgisayar Mühendisliği · 4. sınıf"
     derece   = "Bölüm 1.si · GNO 3.86 / 4.00"
-    is_      = "Ramer Consulting · Dış Ticaret Otomasyonu (Node.js)"
-    topluluk = ["HSD Karabük · Sayman",
-                "Partech Hyperloop · Levitasyon Ekibi",
-                "GDSC · Core Team"]
     su_an    = ["Fotoğraftan kalori tahmini (PyTorch)",
                 "HSD Türkiye platformu (Next.js)"]
     diller   = {"Türkçe": "ana dil", "English": "B2"}
@@ -40,7 +36,7 @@ class Mert:
 <summary>🇬🇧 <b>English</b></summary>
 <br />
 
-I'm **Mert**, a 4th-year Computer Engineering student at Karabük University, ranked **1st in my department** (GPA 3.86/4.00). I started with web development and currently work as a **Full-Stack Developer** on a TÜBİTAK-backed foreign trade automation project.
+I'm **Mert**, a 4th-year Computer Engineering student at Karabük University, ranked **1st in my department** (GPA 3.86/4.00). I started with web development and build end-to-end apps as a **Full-Stack Developer**.
 
 I'm heading toward **Data Engineering and AI**: building systems that collect, clean and make sense of data, then putting models on top of it. Right now I'm training a model that estimates calories from a single food photo. I'm open to Data and AI internship and junior opportunities.
 
@@ -94,29 +90,13 @@ I'm heading toward **Data Engineering and AI**: building systems that collect, c
 
 </details>
 
-## 💾 04 // DENEYİM
-
-- **Full-Stack Developer** · Ramer Consulting, İstanbul (uzaktan) · `Nisan 2025 – devam`\
-  TÜBİTAK destekli Dış Ticaret Otomasyonu projesi: dış ticaret süreçlerini hızlandıran otomasyon yazılımı (Node.js).
-- **Siber Güvenlik Stajyeri** · T.C. Ulaştırma ve Altyapı Bakanlığı, Bilgi İşlem Dairesi, Ankara · `Ağustos – Eylül 2025`
-- **Web Developer** · Anadolu Şirketler Grubu, BT Ekibi, Karabük · `Temmuz – Ekim 2024`\
-  HTML, CSS ve JavaScript ile mobil uyumlu arayüzler ve performans iyileştirmeleri.
-
-## 🛰️ 05 // TOPLULUK
-
-- **Sayman** · Huawei Student Developers (HSD) Karabük · `Nisan 2025 – devam`\
-  Teknik etkinliklerin bütçe yönetimi, seminer ve atölye organizasyonu; HSD Türkiye platformunun geliştirilmesine katkı.
-- **Levitasyon Ekibi Üyesi** · Partech Hyperloop Takımı · `Ekim 2025 – devam`\
-  Manyetik levitasyon ve süspansiyon sistemleri, kararlılık için kontrol algoritmaları.
-- **Core Team Üyesi** · Google Developer Student Clubs (GDSC) Karabük · `Eylül 2024 – Aralık 2025`
-
-## 🎯 06 // YOL HARİTAM
+## 🎯 04 // YOL HARİTAM
 
 <p align="center">
   <img src="assets/roadmap.svg" width="100%" alt="Yol haritası: Python, SQL, Data Engineering, Big Data & Cloud, ML, Deep Learning, MLOps, Portföy → Data Engineer × AI Engineer" />
 </p>
 
-## 🐍 07 // AKTİVİTE
+## 🐍 05 // AKTİVİTE
 
 <p align="center">
   <picture>
